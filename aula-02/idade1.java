@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Idade1 {
+public class idade1 {
 public static Scanner input = new Scanner(System.in);
 public static final int ANO_ATUAL = 2026;
 
